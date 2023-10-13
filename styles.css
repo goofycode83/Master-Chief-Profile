@@ -56,6 +56,17 @@ section img {
     width: 350px;
 }
 
+figure {
+    display: inline-block;
+}
+
+figure figcaption {
+    color:white;
+    padding: 2px;
+    text-align: center;
+    background-color: black;
+}
+
 footer {
     text-align: left;
 }
